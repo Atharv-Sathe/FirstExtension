@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "First Extension",
+    "version": "0.0.1",
+    "description": "First test extension to explore.",
+    "author": {
+        "email": "atharvsathe28704@gmail.com"
+    },
+    "icons": {
+        "16": "images/extensionIcon.png",
+        "32": "images/extensionIcon.png",
+        "48": "images/extensionIcon.png",
+        "128": "images/extensionIcon.png"
+    },
+    "action": {
+        "default_icon": {              
+          "16": "images/extensionIcon.png",   
+          "24": "images/extensionIcon.png",   
+          "32": "images/extensionIcon.png"    
+        },
+        "default_title": "Please Click Me, Ooooh Yeah!", 
+        "default_popup": "popup.html"  
+    }
+}
