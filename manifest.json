@@ -20,5 +20,6 @@
         },
         "default_title": "Please Click Me, Ooooh Yeah!", 
         "default_popup": "popup.html"  
-    }
+    },
+    "options_page": "options.html"
 }
